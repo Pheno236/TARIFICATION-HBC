@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Tarification à la Carte</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="menu">
+        <h2>Structure de Tarification à la Carte pour le Salon dans un menu déroulant</h2>
+        <p>...</p> <!-- Contenu du menu à insérer ici -->
+        <a href="https://www.hbccoiffuremontpellier.com/">Lien vers le site</a> <!-- Lien vers le site -->
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
